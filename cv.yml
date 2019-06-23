@@ -1,19 +1,24 @@
-details:
-  first_name: Ольга
-  last_name: Переверзева
 
-title: Верстальщик
-
-profile: В прошлом я - инженер- конструктор, сейчас верстальщик - фрилансер. Придерживаюсь идеологии БЭМ, работаю со сборщиком Parcel, использую Stylus и Posthtml. Технологии html5, css3, js, jquery.
-
-
-contact:
-- text: olja125@yandex.ru
-  url: mailto:olja125@yandex.ru
-  icon: email
+  full_name: Ольга Переверзева
   
-technical:
-  - category: Languages
-    items: js, css3, HTML5
-  - category: Frameworks
-    items: jquery, Bootstrap
+  age:32
+
+
+  url: mailto:olja125@yandex.ru
+
+  
+programming_languages : js, css3, HTML5, jquery, Bootstrap
+    
+have_a_job:yes WebStudio
+
+laptop: no, desktop computer Linux
+
+english: pre-Intermediate
+
+education: engineering
+
+phone_number: +7(906)577-77-89
+
+hours_per_day:4
+
+goal: По образованию я - инженер и хочу менить сферу деятельности, хочу решать настоящии задачи. Понравились ваши жестки условия. Главная цель - получить работу в новой сфере.
