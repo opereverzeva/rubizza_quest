@@ -1,13 +1,19 @@
-ФИО: Переверзева Ольга Николаевна
-В прошлом я - инженер- конструктор, сейчас верстальщик - фрилансер.
-Придерживаюсь идеологии БЭМ, работаю со сборщиком Parcel, использую Stylus и Posthtml. Технологии html5, css3, js, jquery.
+details:
+  first_name: Ольга
+  last_name: Переверзева
 
-Курсы FreeCodeCamp:
-Responsive Web Design
-JavaScript Algorithms and Data Structures
+title: Верстальщик
 
-Сертификаты MailGroup:
-HTML/CSS начальный, средний, сложный
-PHP начальный
+profile: В прошлом я - инженер- конструктор, сейчас верстальщик - фрилансер. Придерживаюсь идеологии БЭМ, работаю со сборщиком Parcel, использую Stylus и Posthtml. Технологии html5, css3, js, jquery.
 
-Перевожу документацию для MDN
+
+contact:
+- text: olja125@yandex.ru
+  url: mailto:olja125@yandex.ru
+  icon: email
+  
+technical:
+  - category: Languages
+    items: js, css3, HTML5
+  - category: Frameworks
+    items: jquery, Bootstrap
